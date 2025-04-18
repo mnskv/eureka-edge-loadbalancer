@@ -10,6 +10,19 @@ Config Server
 Composite Services (Controller)
 Core Services(Atomic Services
 Circuit Breaker
+
+
+
+
+
+
+
+
+
+
+
+
+
 serviceConsumer--> loadbalancer(edgeserver)-->product-composite(service-discovery)-->atomicservices(review, recommendation,product)
 
 
